@@ -9,3 +9,6 @@ But I will try
 ## Things I have learned:
 * Some new things about Markdown (and a place to find info about it!: https://guides.github.com/features/mastering-markdown/#syntax)
 * That I should have a readme in each folder/repository
+
+## Other cool things
+* include options to contribute "How to contribute"
