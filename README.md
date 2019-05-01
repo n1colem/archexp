@@ -7,5 +7,5 @@ But I will try
 ## The people in this project are:
 * Nicole Meyer (me)
 ## Things I have learned:
-* Some new things about Markdown
+* Some new things about Markdown (and a place to find info about it!: https://guides.github.com/features/mastering-markdown/#syntax)
 * That I should have a readme in each folder/repository
